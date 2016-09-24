@@ -56,7 +56,7 @@ public class Main extends JFrame implements Serializable, KeyListener, Runnable 
 		width = 600;
 		height = 600;
 		setSize(width, height);
-		setTitle("Jumpy Box");
+		setTitle("Space Jump");
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setResizable(false);
